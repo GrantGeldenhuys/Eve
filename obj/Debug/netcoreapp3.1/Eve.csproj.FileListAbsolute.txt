@@ -1,0 +1,13 @@
+D:\Personal\Programming\Eve\bin\Debug\netcoreapp3.1\Eve.exe
+D:\Personal\Programming\Eve\bin\Debug\netcoreapp3.1\Eve.deps.json
+D:\Personal\Programming\Eve\bin\Debug\netcoreapp3.1\Eve.runtimeconfig.json
+D:\Personal\Programming\Eve\bin\Debug\netcoreapp3.1\Eve.runtimeconfig.dev.json
+D:\Personal\Programming\Eve\bin\Debug\netcoreapp3.1\Eve.dll
+D:\Personal\Programming\Eve\bin\Debug\netcoreapp3.1\Eve.pdb
+D:\Personal\Programming\Eve\obj\Debug\netcoreapp3.1\Eve.csprojAssemblyReference.cache
+D:\Personal\Programming\Eve\obj\Debug\netcoreapp3.1\Eve.AssemblyInfoInputs.cache
+D:\Personal\Programming\Eve\obj\Debug\netcoreapp3.1\Eve.AssemblyInfo.cs
+D:\Personal\Programming\Eve\obj\Debug\netcoreapp3.1\Eve.csproj.CoreCompileInputs.cache
+D:\Personal\Programming\Eve\obj\Debug\netcoreapp3.1\Eve.dll
+D:\Personal\Programming\Eve\obj\Debug\netcoreapp3.1\Eve.pdb
+D:\Personal\Programming\Eve\obj\Debug\netcoreapp3.1\Eve.genruntimeconfig.cache

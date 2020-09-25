@@ -166,3 +166,139 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOn
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 Exiting due to channel error.
+1601046821298	geckodriver	INFO	Listening on 127.0.0.1:50038
+1601046821803	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Grant\\AppData\\Local\\Temp\\rust_mozprofileQbfyQj"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601046824452	Marionette	INFO	Listening on port 50043
+1601046824920	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 4340 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 4340 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 2693 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 2693 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:50153
+1601046892716	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Grant\\AppData\\Local\\Temp\\rust_mozprofilelX91eu"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601046895215	Marionette	INFO	Listening on port 50158
+1601046895324	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 1894 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 1894 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 433 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 433 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 4007 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 4007 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:50345
+1601047454288	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Grant\\AppData\\Local\\Temp\\rust_mozprofileBeOdZH"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601047456363	Marionette	INFO	Listening on port 50350
+1601047456401	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 30 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 30 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 6986 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 6986 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 5956 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 5956 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:50503
+1601047754666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Grant\\AppData\\Local\\Temp\\rust_mozprofilewqml4S"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601047756850	Marionette	INFO	Listening on port 50508
+1601047757275	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:50549
+1601047872498	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Grant\\AppData\\Local\\Temp\\rust_mozprofilea8M0SH"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601047875013	Marionette	INFO	Listening on port 50554
+1601047875112	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:50596
+1601048069210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Grant\\AppData\\Local\\Temp\\rust_mozprofileB1kivt"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601048071580	Marionette	INFO	Listening on port 50601
+1601048071826	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 493 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 493 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 4643 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 4643 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 6954 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 6954 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601048368349	geckodriver	INFO	Listening on 127.0.0.1:50730
+1601048368371	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Grant\\AppData\\Local\\Temp\\rust_mozprofilenQXUOk"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601048370735	Marionette	INFO	Listening on port 50735
+1601048370989	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 2988 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 2988 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 6706 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 6706 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601048525531	geckodriver	INFO	Listening on 127.0.0.1:50857
+1601048525555	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Grant\\AppData\\Local\\Temp\\rust_mozprofileoVJw6J"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601048528160	Marionette	INFO	Listening on port 50862
+1601048528216	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 6813 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 6813 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 324 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 324 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601048667610	geckodriver	INFO	Listening on 127.0.0.1:50982
+1601048667636	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Grant\\AppData\\Local\\Temp\\rust_mozprofileru18I2"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601048670250	Marionette	INFO	Listening on port 50987
+1601048670749	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 4695 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 4695 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 6352 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 6352 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601048709748	geckodriver	INFO	Listening on 127.0.0.1:51118
+1601048709780	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Grant\\AppData\\Local\\Temp\\rust_mozprofileNciShY"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601048712803	Marionette	INFO	Listening on port 51123
+1601048712897	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 3678 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 3678 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 4161 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 4161 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 4135 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 4135 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601048764018	Marionette	INFO	Stopped listening on port 51123
